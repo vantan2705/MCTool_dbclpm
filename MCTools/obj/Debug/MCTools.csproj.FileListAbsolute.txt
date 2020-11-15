@@ -1,0 +1,186 @@
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\bin\Debug\MCTools.exe.config
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\bin\Debug\MCTools.exe
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\bin\Debug\MCTools.pdb
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.csprojResolveAssemblyReference.cache
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.MainForm.resources
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.Properties.Resources.resources
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.csproj.GenerateResource.Cache
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.exe
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.pdb
+c:\users\pc1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.SetupTool.resources
+c:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.LoadingDialog.resources
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x64\concrt140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x64\cvextern.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x64\msvcp140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x86\concrt140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x86\cvextern.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x86\msvcp140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\ZedGraph.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\ZedGraph.xml
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Visual Studio 2013\Projects\MCTools\MCTools\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\bin\Debug\Npgsql.dll
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.csproj.ResolveComReference.cache
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.EditPersonalInfo.resources
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.Settings.resources
+C:\Users\PC1\documents\visual studio 2013\Projects\MCTools\MCTools\obj\Debug\MCTools.AboutMe.resources
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\MCTools.exe.config
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.csproj.ResolveComReference.cache
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x64\concrt140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x64\cvextern.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x64\msvcp140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x64\vcruntime140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x86\concrt140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x86\cvextern.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x86\msvcp140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\x86\vcruntime140.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\MCTools.exe
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\MCTools.pdb
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\Emgu.CV.UI.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\Emgu.CV.World.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\Npgsql.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\ZedGraph.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\Emgu.CV.UI.xml
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\Emgu.CV.World.xml
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\ZedGraph.xml
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\de\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\es\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\fr\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\hu\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\it\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\ja\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\pt\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\ru\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\sk\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\sv\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\tr\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.csprojResolveAssemblyReference.cache
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.AboutMe.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.EditPersonalInfo.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.LoadingDialog.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.MainForm.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.Properties.Resources.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.Settings.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.SetupTool.resources
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.csproj.GenerateResource.Cache
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.exe
+D:\graduation thesis\Windows\MCTools\MCTools\obj\Debug\MCTools.pdb
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\MCTools.exe.config
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.csproj.ResolveComReference.cache
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.exe
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.pdb
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x64\concrt140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x64\cvextern.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x64\msvcp140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x64\vcruntime140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x86\concrt140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x86\cvextern.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x86\msvcp140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\x86\vcruntime140.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\MCTools.exe
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\MCTools.pdb
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\Emgu.CV.UI.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\Emgu.CV.World.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\Npgsql.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\ZedGraph.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\Emgu.CV.UI.xml
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\Emgu.CV.World.xml
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\ZedGraph.xml
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\de\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\es\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\fr\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\hu\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\it\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\ja\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\pt\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\ru\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\sk\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\sv\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\tr\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.csprojResolveAssemblyReference.cache
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.AboutMe.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.EditPersonalInfo.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.LoadingDialog.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.MainForm.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.Properties.Resources.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.Settings.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.SetupTool.resources
+D:\graduation thesis\Final\MCTools\MCTools\obj\Debug\MCTools.csproj.GenerateResource.Cache
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x64\concrt140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x64\cvextern.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x64\msvcp140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x64\vcruntime140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x86\concrt140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x86\cvextern.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x86\msvcp140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\x86\vcruntime140.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\MCTools.exe.config
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\MCTools.exe
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\MCTools.pdb
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\Emgu.CV.UI.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\Emgu.CV.World.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\Npgsql.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\ZedGraph.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\Emgu.CV.UI.xml
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\Emgu.CV.World.xml
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\ZedGraph.xml
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\de\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\es\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\fr\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\hu\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\it\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\ja\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\pt\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\ru\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\sk\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\sv\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\tr\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.csprojAssemblyReference.cache
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.csproj.ResolveComReference.cache
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.AboutMe.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.EditPersonalInfo.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.LoadingDialog.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.MainForm.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.Properties.Resources.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.Settings.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.SetupTool.resources
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.csproj.GenerateResource.cache
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.csproj.CoreCompileInputs.cache
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.csproj.CopyComplete
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.exe
+D:\DBCL PM\Project\Sourcecode\MCTools\MCTools\obj\Debug\MCTools.pdb
